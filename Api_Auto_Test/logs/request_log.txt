@@ -1,0 +1,1582 @@
+2019-07-15 22:27:38,555-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:27:38,555-INFO-request_test.py-test_login-68-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-15 22:27:38,607-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:27:38,607-INFO-request_test.py-test_login-68-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-15 22:27:38,644-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:27:38,645-INFO-request_test.py-test_login-68-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-15 22:27:38,746-INFO-request_test.py-test_recharge-142-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-15 22:27:38,827-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-15 22:27:38,911-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-15 22:27:38,995-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-15 22:27:39,077-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-15 22:27:39,163-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-15 22:27:39,200-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:27:39,200-ERROR-request_test.py-test_register-49-日志信息：'20109' != '10001'
+- 20109
++ 10001
+
+2019-07-15 22:27:39,256-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-15 22:27:39,256-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-15 22:27:39,293-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:27:39,293-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-15 22:27:39,331-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-15 22:27:39,331-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-15 22:27:39,376-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:27:39,376-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-15 22:29:13,577-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:13,577-INFO-request_test.py-test_login-68-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-15 22:29:13,664-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:13,664-INFO-request_test.py-test_login-68-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-15 22:29:13,725-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:13,725-INFO-request_test.py-test_login-68-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-15 22:29:13,861-INFO-request_test.py-test_recharge-142-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-15 22:29:13,974-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-15 22:29:14,087-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-15 22:29:14,200-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-15 22:29:14,316-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-15 22:29:14,435-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-15 22:29:14,493-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:14,494-ERROR-request_test.py-test_register-49-日志信息：'20109' != '10001'
+- 20109
++ 10001
+
+2019-07-15 22:29:14,555-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-15 22:29:14,555-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-15 22:29:14,612-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:14,613-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-15 22:29:14,673-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-15 22:29:14,673-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-15 22:29:14,742-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:14,742-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-15 22:29:52,107-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:52,107-INFO-request_test.py-test_login-68-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-15 22:29:52,259-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:52,259-INFO-request_test.py-test_login-68-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-15 22:29:52,365-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:52,365-INFO-request_test.py-test_login-68-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-15 22:29:52,541-INFO-request_test.py-test_recharge-142-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-15 22:29:52,701-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-15 22:29:52,869-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-15 22:29:53,033-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-15 22:29:53,199-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-15 22:29:53,361-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-15 22:29:53,478-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:53,479-ERROR-request_test.py-test_register-49-日志信息：'20109' != '10001'
+- 20109
++ 10001
+
+2019-07-15 22:29:53,597-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-15 22:29:53,597-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-15 22:29:53,702-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:53,702-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-15 22:29:53,809-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-15 22:29:53,810-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-15 22:29:53,925-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:29:53,925-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-15 22:44:30,621-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:44:30,622-INFO-request_test.py-test_login-68-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-15 22:44:30,748-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:44:30,749-INFO-request_test.py-test_login-68-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-15 22:44:30,853-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:44:30,853-INFO-request_test.py-test_login-68-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-15 22:44:31,018-INFO-request_test.py-test_recharge-142-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-15 22:44:31,170-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-15 22:44:31,322-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-15 22:44:31,480-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-15 22:44:31,630-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-15 22:44:31,781-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-15 22:44:31,887-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:44:31,888-ERROR-request_test.py-test_register-49-日志信息：'20109' != '10001'
+- 20109
++ 10001
+
+2019-07-15 22:44:31,993-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-15 22:44:31,994-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-15 22:44:32,099-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:44:32,100-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-15 22:44:32,201-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-15 22:44:32,202-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-15 22:44:32,313-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:44:32,314-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-15 22:48:00,873-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:48:00,873-INFO-request_test.py-test_login-68-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-15 22:48:01,020-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:48:01,021-INFO-request_test.py-test_login-68-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-15 22:48:01,122-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:48:01,122-INFO-request_test.py-test_login-68-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-15 22:48:01,284-INFO-request_test.py-test_recharge-142-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-15 22:48:01,430-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-15 22:48:01,579-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-15 22:48:01,727-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-15 22:48:01,874-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-15 22:48:02,017-INFO-request_test.py-test_recharge-142-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-15 22:48:02,118-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:48:02,118-ERROR-request_test.py-test_register-49-日志信息：'20109' != '10001'
+- 20109
++ 10001
+
+2019-07-15 22:48:02,222-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-15 22:48:02,222-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-15 22:48:02,333-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:48:02,333-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-15 22:48:02,436-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-15 22:48:02,436-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-15 22:48:02,547-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-15 22:48:02,547-INFO-request_test.py-test_register-46-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 13:54:52,373-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 13:54:52,374-ERROR-request_test.py-test_register-51-日志信息： :: 20109 != 10001
+2019-07-16 13:57:39,499-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 13:58:54,360-ERROR-request_test.py-test_register-51-日志信息： :: 20109 != 10001
+2019-07-16 13:59:10,555-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:00:51,108-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:00:51,109-ERROR-request_test.py-test_register-51-日志信息： :: 20109 != 10001
+2019-07-16 14:01:40,226-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:06:31,683-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:06:44,455-ERROR-request_test.py-test_register-56-日志信息： :: 20109 != 10001
+2019-07-16 14:14:47,296-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:14:47,296-INFO-request_test.py-test_register-53-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 14:16:16,136-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:16:16,136-ERROR-request_test.py-test_register-55-日志信息：'20109' != '10001'
+- 20109
++ 10001
+
+2019-07-16 14:18:43,792-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:18:43,793-ERROR-request_test.py-test_register-55-日志信息： :: 20109 != 10001
+2019-07-16 14:19:48,141-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:19:57,675-INFO-request_test.py-test_register-52-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 14:20:34,029-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:20:34,029-ERROR-request_test.py-test_register-55-日志信息： :: 20109 != 10001
+2019-07-16 14:22:49,055-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:22:51,079-INFO-request_test.py-test_register-52-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 14:31:02,922-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:31:02,922-ERROR-request_test.py-test_register-57-日志信息： :: 20109 != 10001
+2019-07-16 14:31:03,022-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:31:03,022-INFO-request_test.py-test_register-54-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 14:31:03,122-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:31:03,122-INFO-request_test.py-test_register-54-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 14:31:03,217-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:31:03,217-INFO-request_test.py-test_register-54-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 14:31:03,311-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:31:03,311-ERROR-request_test.py-test_register-57-日志信息： :: 20109 != 20110
+2019-07-16 14:32:07,455-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:45:20,220-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:45:20,221-ERROR-request_test.py-test_register-54-日志信息： :: 20109 != 10001
+2019-07-16 14:45:20,575-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:45:20,575-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 14:45:20,955-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:45:20,955-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 14:45:21,334-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:45:21,334-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 14:45:22,747-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:45:22,747-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 14:45:57,798-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:45:57,799-ERROR-request_test.py-test_register-54-日志信息： :: 20109 != 10001
+2019-07-16 14:45:58,211-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:45:58,211-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 14:45:58,601-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:45:58,601-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 14:45:58,968-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:45:58,968-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 14:46:00,657-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:46:00,657-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 14:46:40,746-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:46:40,746-ERROR-request_test.py-test_register-54-日志信息： :: 20109 != 10001
+2019-07-16 14:46:41,118-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:46:41,118-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 14:46:41,477-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:46:41,477-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 14:46:41,837-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:46:41,837-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 14:46:43,433-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:46:43,434-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 14:46:50,946-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:46:50,946-INFO-request_test.py-test_register-51-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 14:46:51,442-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:46:51,442-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 14:46:51,917-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:46:51,918-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 14:46:52,316-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:46:52,316-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 14:46:53,925-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:46:53,925-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 14:47:17,553-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:47:17,553-ERROR-request_test.py-test_register-54-日志信息：'20109' != '10001'
+- 20109
++ 10001
+
+2019-07-16 14:47:17,961-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:47:17,962-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 14:47:18,372-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:47:18,372-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 14:47:18,783-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:47:18,783-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 14:47:20,369-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:47:20,370-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 14:48:12,946-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:48:12,946-ERROR-request_test.py-test_register-54-日志信息： :: 20109 != 10001
+2019-07-16 14:48:13,361-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:48:13,361-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 14:48:13,754-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:48:13,754-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 14:48:14,189-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:48:14,189-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 14:48:15,837-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:48:15,837-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 14:51:57,696-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:51:57,697-ERROR-request_test.py-test_register-54-日志信息： :: 20109 != 10001
+2019-07-16 14:51:58,085-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:51:58,085-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 14:51:58,486-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:51:58,486-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 14:51:58,890-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 14:51:58,890-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 14:52:00,408-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:52:00,408-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 14:57:16,501-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 14:57:28,285-INFO-request_test.py-test_register-51-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 15:00:33,866-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:00:33,866-ERROR-request_test.py-test_register-54-日志信息： :: 20109 != 10001
+2019-07-16 15:00:34,259-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:00:34,259-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 15:00:34,645-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:00:34,645-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 15:00:35,031-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:00:35,031-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 15:00:36,653-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:00:36,654-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 15:00:58,805-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:00:58,805-ERROR-request_test.py-test_register-54-日志信息： :: 20109 != 10001
+2019-07-16 15:00:59,206-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:00:59,206-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 15:00:59,613-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:00:59,613-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 15:01:00,002-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:01:00,002-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 15:01:01,699-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:01:01,699-INFO-request_test.py-test_register-51-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 15:19:57,155-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:19:57,155-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 15:19:57,535-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:19:57,535-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 15:19:57,936-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:19:57,936-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 15:19:58,355-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:19:58,355-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 15:20:00,036-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:20:00,037-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 15:20:29,048-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:20:29,048-ERROR-register_test.py-test_register-50-日志信息： :: 20109 != 10001
+2019-07-16 15:20:29,446-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:20:29,446-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 15:20:29,852-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:20:29,852-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 15:20:30,251-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:20:30,251-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 15:20:32,060-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:20:32,060-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 15:21:38,132-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:21:38,132-ERROR-register_test.py-test_register-50-日志信息： :: 20109 != 10001
+2019-07-16 15:21:38,532-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:21:38,532-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 15:21:38,927-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:21:38,927-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 15:21:39,320-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:21:39,320-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 15:21:41,743-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:21:41,744-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 15:23:02,616-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:23:02,617-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 15:23:03,037-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:23:03,037-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 15:23:03,463-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:23:03,463-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 15:23:03,851-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:23:03,851-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 15:23:05,526-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:23:05,526-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 15:24:32,480-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:24:32,480-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 15:24:32,894-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:24:32,894-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 15:24:33,295-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:24:33,295-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 15:24:33,681-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:24:33,682-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 15:24:35,657-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:24:35,657-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 15:25:21,146-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:25:21,147-ERROR-register_test.py-test_register-50-日志信息： :: 20109 != 10001
+2019-07-16 15:25:21,569-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:25:21,569-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 15:25:21,960-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:25:21,960-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 15:25:22,368-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 15:25:22,368-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 15:25:24,236-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:25:24,236-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 15:27:40,163-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:27:40,163-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-16 15:27:42,308-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:27:42,309-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-16 15:27:42,712-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:27:42,712-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-16 15:28:08,002-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:28:08,002-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-16 15:28:10,457-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:28:10,457-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-16 15:28:10,951-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 15:28:10,951-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-16 16:14:06,277-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:35:20,802-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:35:20,947-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:35:21,064-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:37:42,959-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:37:43,110-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:37:43,247-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:38:24,503-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:38:24,625-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:38:24,747-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:41:16,124-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:41:16,248-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:41:16,380-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:43:19,312-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:43:19,442-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 16:43:19,603-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:05:25,214-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:05:25,363-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:05:25,514-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:27:13,948-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:27:44,238-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:28:02,492-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:30:18,598-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:32:09,149-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:34:30,164-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:35:55,008-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:37:48,214-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:37:48,467-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:37:48,693-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:38:25,876-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:38:26,104-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:38:26,303-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:38:52,535-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:39:14,562-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:40:02,698-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:40:30,294-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:41:17,839-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:41:25,146-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:41:40,352-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:41:56,607-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:42:16,368-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:42:16,607-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:42:32,189-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:42:32,412-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:44:52,858-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:47:29,036-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:49:30,400-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:49:35,646-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:49:38,252-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:49:40,314-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:50:09,767-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:50:27,238-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:50:27,968-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:51:21,985-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:51:22,247-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:51:22,530-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:51:33,809-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:51:34,136-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:51:34,420-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 17:59:59,774-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 18:00:00,042-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 18:00:00,310-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 18:49:14,762-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 10001
+2019-07-16 18:49:14,901-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20103
+2019-07-16 18:49:15,056-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20106
+2019-07-16 18:49:15,210-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20107
+2019-07-16 18:49:15,357-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20108
+2019-07-16 18:49:15,499-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20109
+2019-07-16 18:49:40,004-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 10001
+2019-07-16 18:49:40,188-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20103
+2019-07-16 18:49:40,379-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20106
+2019-07-16 18:49:40,575-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20107
+2019-07-16 18:49:40,766-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20108
+2019-07-16 18:49:40,952-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20109
+2019-07-16 18:53:02,517-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 10001
+2019-07-16 18:53:02,688-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20103
+2019-07-16 18:53:03,029-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20106
+2019-07-16 18:53:03,209-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20107
+2019-07-16 18:53:03,374-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20108
+2019-07-16 18:53:03,547-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20109
+2019-07-16 18:54:56,964-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 10001
+2019-07-16 18:54:57,144-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20103
+2019-07-16 18:54:57,332-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20106
+2019-07-16 18:54:57,515-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20107
+2019-07-16 18:54:57,948-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20108
+2019-07-16 18:54:58,127-ERROR-add_test.py-test_recharge-52-日志信息： :: None != 20109
+2019-07-16 19:21:46,743-ERROR-add_test.py-test_recharge-52-日志信息： :: 20103 != 10001
+2019-07-16 19:21:46,896-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-16 19:21:47,063-ERROR-add_test.py-test_recharge-52-日志信息： :: 20103 != 20106
+2019-07-16 19:21:47,222-ERROR-add_test.py-test_recharge-52-日志信息： :: 20103 != 20107
+2019-07-16 19:21:47,377-ERROR-add_test.py-test_recharge-52-日志信息： :: 20103 != 20108
+2019-07-16 19:21:47,556-ERROR-add_test.py-test_recharge-52-日志信息： :: 20103 != 20109
+2019-07-16 19:23:39,523-INFO-add_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-16 19:23:39,661-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-16 19:23:39,804-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-16 19:23:39,940-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-16 19:23:40,081-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-16 19:23:40,213-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-16 19:23:53,054-INFO-add_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-16 19:23:53,202-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-16 19:23:53,351-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-16 19:23:53,498-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-16 19:23:53,645-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-16 19:23:53,807-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-16 19:24:21,575-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 19:24:21,576-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-16 19:24:24,123-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 19:24:24,123-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-16 19:24:24,578-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 19:24:24,578-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-16 19:24:53,845-ERROR-recharge_test.py-test_recharge-53-日志信息： :: 20109 != 10001
+2019-07-16 19:24:54,483-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 19:24:55,003-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 19:24:55,514-ERROR-recharge_test.py-test_recharge-53-日志信息： :: 20109 != 20118
+2019-07-16 19:24:56,003-ERROR-recharge_test.py-test_recharge-53-日志信息： :: 20109 != 20116
+2019-07-16 19:25:48,690-ERROR-recharge_test.py-test_recharge-53-日志信息： :: 20109 != 10001
+2019-07-16 19:25:49,170-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 19:25:49,669-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 19:25:50,167-ERROR-recharge_test.py-test_recharge-53-日志信息： :: 20109 != 20118
+2019-07-16 19:25:50,650-ERROR-recharge_test.py-test_recharge-53-日志信息： :: 20109 != 20116
+2019-07-16 19:26:45,802-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":101257,"regname":"borrow_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"18205312986","leaveamount":"5000.00","type":"1","regtime":"2019-07-16 18:00:52.0"},"msg":"充值成功"}
+2019-07-16 19:26:45,965-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 19:26:46,135-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 19:26:46,324-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-16 19:26:46,499-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-16 19:28:35,504-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-16 19:29:11,332-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-16 19:29:11,488-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-16 19:29:11,639-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-16 19:29:11,797-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-16 19:29:11,972-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11010","data":null,"msg":"该标不在竞标中状态，无法完成投标"}
+2019-07-16 19:31:18,434-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 19:31:18,434-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 19:31:18,872-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 19:31:18,872-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 19:31:19,266-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 19:31:19,266-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 19:31:19,701-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 19:31:19,701-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 19:31:21,721-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 19:31:21,721-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 19:31:22,002-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":101257,"regname":"borrow_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"18205312986","leaveamount":"10000.00","type":"1","regtime":"2019-07-16 18:00:52.0"},"msg":"充值成功"}
+2019-07-16 19:31:22,167-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 19:31:22,327-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 19:31:22,483-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-16 19:31:22,644-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-16 19:31:24,606-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 19:31:24,606-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-16 19:31:26,738-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 19:31:26,738-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-16 19:31:27,191-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 19:31:27,191-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-16 19:31:27,404-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-16 19:31:27,558-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-16 19:31:27,694-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-16 19:31:27,835-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-16 19:31:27,979-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11010","data":null,"msg":"该标不在竞标中状态，无法完成投标"}
+2019-07-16 19:31:28,196-INFO-add_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-16 19:31:28,340-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-16 19:31:28,482-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-16 19:31:28,640-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-16 19:31:28,779-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-16 19:31:28,921-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-16 20:19:46,963-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 20:19:47,440-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 20:19:47,900-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 20:33:27,895-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:02:38,414-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:02:38,414-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 21:02:38,513-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 21:02:38,513-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 21:02:38,611-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:02:38,611-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 21:02:38,701-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 21:02:38,701-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 21:02:40,793-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:02:40,793-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 21:02:42,825-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:02:42,825-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-16 21:02:44,729-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:02:44,729-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-16 21:02:44,830-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:02:44,830-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-16 21:03:15,006-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:15,397-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:15,835-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:23,966-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:23,966-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 21:03:24,065-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 21:03:24,065-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 21:03:24,158-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:24,158-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 21:03:24,246-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 21:03:24,246-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 21:03:25,833-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:25,833-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 21:03:27,857-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:27,858-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-16 21:03:29,483-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:29,483-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-16 21:03:29,588-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:29,588-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-16 21:03:49,311-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:49,311-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 21:03:49,417-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 21:03:49,418-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 21:03:49,510-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:49,510-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 21:03:49,610-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 21:03:49,610-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 21:03:51,146-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:51,146-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 21:03:53,160-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:53,160-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-16 21:03:54,793-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:54,793-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-16 21:03:54,882-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:03:54,882-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-16 21:04:06,922-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:04:07,363-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:04:07,792-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:04:20,670-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:04:20,670-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 21:04:20,775-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 21:04:20,775-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 21:04:20,880-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:04:20,880-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 21:04:20,976-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 21:04:20,976-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 21:04:22,597-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:04:22,598-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 21:04:22,816-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":101389,"regname":"borrow_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"18296048752","leaveamount":"5000.00","type":"1","regtime":"2019-07-16 21:04:59.0"},"msg":"充值成功"}
+2019-07-16 21:04:22,957-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 21:04:23,094-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 21:04:23,236-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-16 21:04:23,373-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-16 21:04:24,710-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:04:24,710-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-16 21:04:26,642-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:04:26,642-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-16 21:04:26,735-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:04:26,735-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-16 21:04:26,940-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-16 21:04:27,083-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-16 21:04:27,225-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-16 21:04:27,365-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-16 21:04:27,502-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11010","data":null,"msg":"该标不在竞标中状态，无法完成投标"}
+2019-07-16 21:04:27,687-INFO-add_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-16 21:04:27,825-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-16 21:04:27,958-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-16 21:04:28,100-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-16 21:04:28,240-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-16 21:04:28,379-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-16 21:07:57,618-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:07:58,068-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:07:58,533-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:10:07,055-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:10:07,497-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:10:07,947-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:10:08,414-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:10:08,414-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-16 21:10:08,514-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 21:10:08,514-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 21:10:08,607-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:10:08,608-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-16 21:10:08,722-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-16 21:10:08,722-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 21:10:10,390-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:10:10,390-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-16 21:10:10,643-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":101398,"regname":"borrow_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15960481793","leaveamount":"5000.00","type":"1","regtime":"2019-07-16 21:10:59.0"},"msg":"充值成功"}
+2019-07-16 21:10:10,799-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 21:10:10,959-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 21:10:11,110-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-16 21:10:11,270-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-16 21:10:12,970-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:10:12,970-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-16 21:10:14,697-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:10:14,697-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-16 21:10:14,790-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-16 21:10:14,790-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-16 21:10:15,013-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-16 21:10:15,159-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-16 21:10:15,316-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-16 21:10:15,459-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-16 21:10:15,636-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11010","data":null,"msg":"该标不在竞标中状态，无法完成投标"}
+2019-07-16 21:10:15,852-INFO-add_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-16 21:10:15,997-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-16 21:10:16,139-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-16 21:10:16,293-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-16 21:10:16,487-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-16 21:10:16,636-INFO-add_test.py-test_recharge-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-16 21:28:47,864-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-16 21:28:48,027-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-16 21:28:48,202-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-16 21:28:48,389-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-16 21:28:48,594-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-16 21:28:48,824-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-16 21:29:23,066-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-16 21:29:23,217-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-16 21:29:23,356-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-16 21:29:23,499-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-16 21:29:23,638-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-16 21:29:23,867-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-16 21:52:48,510-ERROR-recharge_test.py-test_recharge-53-日志信息： :: None != 10001
+2019-07-16 21:52:48,700-ERROR-recharge_test.py-test_recharge-53-日志信息： :: None != 20103
+2019-07-16 21:52:48,880-ERROR-recharge_test.py-test_recharge-53-日志信息： :: None != 20109
+2019-07-16 21:52:49,047-ERROR-recharge_test.py-test_recharge-53-日志信息： :: None != 20118
+2019-07-16 21:52:49,213-ERROR-recharge_test.py-test_recharge-53-日志信息： :: None != 20116
+2019-07-16 21:53:04,479-ERROR-recharge_test.py-test_recharge-53-日志信息： :: None != 10001
+2019-07-16 21:53:04,672-ERROR-recharge_test.py-test_recharge-53-日志信息： :: None != 20103
+2019-07-16 21:53:04,858-ERROR-recharge_test.py-test_recharge-53-日志信息： :: None != 20109
+2019-07-16 21:53:05,041-ERROR-recharge_test.py-test_recharge-53-日志信息： :: None != 20118
+2019-07-16 21:53:05,232-ERROR-recharge_test.py-test_recharge-53-日志信息： :: None != 20116
+2019-07-16 21:53:28,554-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":101399,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15918590243","leaveamount":"4000.00","type":"1","regtime":"2019-07-16 21:10:59.0"},"msg":"充值成功"}
+2019-07-16 21:53:28,714-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-16 21:53:28,872-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-16 21:53:29,033-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-16 21:53:29,185-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-16 21:56:05,946-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-16 21:56:06,103-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-16 21:56:06,261-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-16 21:56:06,411-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-16 21:56:06,568-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11010","data":null,"msg":"该标不在竞标中状态，无法完成投标"}
+2019-07-16 22:02:35,337-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-16 22:02:35,493-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-16 22:02:35,645-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-16 22:02:35,807-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-16 22:02:35,964-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11010","data":null,"msg":"该标不在竞标中状态，无法完成投标"}
+2019-07-16 22:03:51,462-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-16 22:03:51,614-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-16 22:03:51,760-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-16 22:03:51,906-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-16 22:03:52,060-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-16 22:03:52,210-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-17 14:52:26,807-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:52:27,295-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:52:27,761-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:55:41,372-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:55:41,833-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:55:42,238-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:01,417-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:01,844-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:02,262-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:02,517-INFO-test_01_add.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-17 14:57:02,659-INFO-test_01_add.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-17 14:57:02,802-INFO-test_01_add.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-17 14:57:02,945-INFO-test_01_add.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-17 14:57:03,098-INFO-test_01_add.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-17 14:57:03,254-INFO-test_01_add.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-17 14:57:51,043-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:51,456-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:51,872-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:52,298-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-17 14:57:52,450-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-17 14:57:52,598-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-17 14:57:52,745-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-17 14:57:52,913-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-17 14:57:53,058-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-17 14:57:53,300-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-17 14:57:53,459-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-17 14:57:53,611-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-17 14:57:53,757-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-17 14:57:53,917-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11010","data":null,"msg":"该标不在竞标中状态，无法完成投标"}
+2019-07-17 14:57:55,594-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:55,594-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-17 14:57:57,373-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:57,373-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-17 14:57:57,459-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:57,460-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-17 14:57:57,754-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":102018,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15847308562","leaveamount":"4000.00","type":"1","regtime":"2019-07-17 14:58:46.0"},"msg":"充值成功"}
+2019-07-17 14:57:57,891-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-17 14:57:58,036-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-17 14:57:58,171-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-17 14:57:58,314-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-17 14:57:58,804-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:58,804-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-17 14:57:58,905-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-17 14:57:58,905-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-17 14:57:59,001-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:57:59,002-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-17 14:57:59,106-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-17 14:57:59,106-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-17 14:58:00,541-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-17 14:58:00,541-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 15:55:34,752-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:35,409-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:35,874-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:38,127-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:38,128-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 15:55:40,180-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:40,180-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 15:55:40,283-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:40,284-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 15:55:40,709-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:40,710-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 15:55:40,810-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 15:55:40,810-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 15:55:40,911-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:40,912-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 15:55:41,014-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 15:55:41,014-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 15:55:42,804-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:42,804-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 15:55:54,756-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:55,248-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:55,702-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:56,145-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 15:55:56,333-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-18 15:55:56,536-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-18 15:55:56,710-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-18 15:55:56,901-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-18 15:55:57,076-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-18 15:55:57,342-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-18 15:55:57,514-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-18 15:55:57,682-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-18 15:55:57,846-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-18 15:55:58,020-ERROR-bidlodn_test.py-test_recharge-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-18 15:55:59,889-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:55:59,889-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 15:56:02,012-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:56:02,012-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 15:56:02,116-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:56:02,116-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 15:56:02,372-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":103328,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15976259084","leaveamount":"4000.00","type":"1","regtime":"2019-07-18 15:55:55.0"},"msg":"充值成功"}
+2019-07-18 15:56:02,533-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 15:56:02,679-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 15:56:02,828-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-18 15:56:02,975-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-18 15:56:03,373-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:56:03,373-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 15:56:03,481-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 15:56:03,482-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 15:56:03,589-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:56:03,589-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 15:56:03,704-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 15:56:03,704-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 15:56:05,518-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 15:56:05,518-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 16:36:52,639-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:36:53,125-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:36:53,591-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:36:53,998-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 16:36:54,175-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-18 16:36:54,325-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-18 16:36:54,481-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-18 16:36:54,629-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-18 16:36:54,779-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-18 16:36:55,028-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-18 16:36:55,177-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-18 16:36:55,337-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-18 16:36:55,495-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-18 16:36:55,660-ERROR-bidlodn_test.py-test_recharge-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-18 16:36:58,432-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:36:58,432-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 16:37:00,605-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:37:00,605-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 16:37:00,706-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:37:00,707-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 16:37:00,972-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":103415,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15956824793","leaveamount":"4000.00","type":"1","regtime":"2019-07-18 16:36:52.0"},"msg":"充值成功"}
+2019-07-18 16:37:01,156-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 16:37:01,325-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 16:37:01,487-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-18 16:37:01,655-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-18 16:37:02,045-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:37:02,045-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 16:37:02,145-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 16:37:02,145-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 16:37:02,241-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:37:02,241-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 16:37:02,337-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 16:37:02,337-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 16:37:04,084-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:37:04,085-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 16:38:00,528-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:38:00,977-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:38:01,440-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:38:03,315-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:38:03,315-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 16:38:05,724-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:38:05,724-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 16:38:05,825-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:38:05,825-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 16:38:06,299-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:38:06,299-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 16:38:06,399-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 16:38:06,399-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 16:38:06,500-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:38:06,500-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 16:38:06,600-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 16:38:06,600-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 16:38:08,353-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:38:08,353-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 16:49:21,201-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:21,645-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:22,095-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:22,546-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 16:49:50,331-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:50,811-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:51,309-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:51,754-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 16:49:51,925-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-18 16:49:52,091-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-18 16:49:52,261-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-18 16:49:52,424-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-18 16:49:52,589-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-18 16:49:52,867-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-18 16:49:53,038-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-18 16:49:53,211-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-18 16:49:53,385-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-18 16:49:53,570-ERROR-bidlodn_test.py-test_recharge-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-18 16:49:55,505-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:55,507-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 16:49:57,381-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:57,381-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 16:49:57,490-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:57,490-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 16:49:57,745-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":103430,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15993782461","leaveamount":"4000.00","type":"1","regtime":"2019-07-18 16:49:50.0"},"msg":"充值成功"}
+2019-07-18 16:49:57,903-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 16:49:58,065-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 16:49:58,223-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-18 16:49:58,386-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-18 16:49:58,838-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:58,838-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 16:49:58,948-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 16:49:58,948-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 16:49:59,052-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:49:59,052-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 16:49:59,164-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 16:49:59,164-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 16:50:00,969-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:50:00,969-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 16:58:17,241-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:58:17,633-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:58:18,087-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:59:39,598-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:59:39,984-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:59:40,428-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 16:59:40,573-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:00:01,692-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:00:02,153-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:00:02,633-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:00:33,345-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:00:33,786-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:00:34,219-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:00:55,536-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:00:55,977-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:00:56,411-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:07:42,473-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:07:42,862-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:07:43,240-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:09:00,786-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:09:05,173-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:09:22,671-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:11:36,601-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:11:38,987-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:12:50,311-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:12:51,979-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:12:53,362-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:15:39,514-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:15:42,580-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:15:53,274-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:21:43,946-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 17:21:44,132-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-18 17:21:44,300-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-18 17:21:44,466-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-18 17:21:44,631-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-18 17:21:44,791-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-18 17:21:45,043-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-18 17:21:45,221-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-18 17:21:45,387-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-18 17:21:45,544-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-18 17:21:45,719-ERROR-bidlodn_test.py-test_recharge-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-18 17:21:47,518-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:21:47,518-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 17:21:49,559-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:21:49,559-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 17:21:49,660-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:21:49,661-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 17:21:49,950-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":103469,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"18276340152","leaveamount":"4000.00","type":"1","regtime":"2019-07-18 17:15:42.0"},"msg":"充值成功"}
+2019-07-18 17:21:50,128-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 17:21:50,302-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 17:21:50,483-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-18 17:21:50,659-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-18 17:21:51,122-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:21:51,122-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 17:21:51,228-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 17:21:51,228-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 17:21:51,342-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:21:51,343-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 17:21:51,452-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 17:21:51,452-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 17:21:53,165-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:21:53,165-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 17:22:04,325-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:22:04,762-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:22:05,250-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:22:05,712-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 17:22:05,885-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-18 17:22:06,049-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-18 17:22:06,209-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-18 17:22:06,373-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-18 17:22:06,535-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-18 17:22:06,821-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-18 17:22:06,980-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-18 17:22:07,147-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-18 17:22:07,306-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-18 17:22:07,474-ERROR-bidlodn_test.py-test_recharge-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-18 17:22:09,359-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:22:09,359-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 17:22:11,323-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:22:11,324-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 17:22:11,431-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:22:11,431-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 17:22:11,724-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"4000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 17:22:11,894-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 17:22:12,063-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 17:22:12,227-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-18 17:22:12,393-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-18 17:22:12,832-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:22:12,832-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 17:22:12,945-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 17:22:12,945-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 17:22:13,056-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:22:13,056-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 17:22:13,171-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 17:22:13,171-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 17:22:15,040-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:22:15,041-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 17:43:26,894-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 17:43:27,062-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-18 17:43:27,193-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-18 17:43:27,318-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-18 17:43:27,444-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-18 17:43:27,571-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-18 17:43:27,771-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-18 17:43:27,888-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-18 17:43:28,019-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-18 17:43:28,132-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-18 17:43:28,253-ERROR-bidlodn_test.py-test_recharge-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-18 17:43:30,126-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:30,126-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 17:43:32,037-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:32,037-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 17:43:32,099-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:32,099-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 17:43:32,315-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"8000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 17:43:32,431-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 17:43:32,554-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 17:43:32,675-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-18 17:43:32,791-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-18 17:43:33,177-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:33,177-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 17:43:33,238-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 17:43:33,239-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 17:43:33,301-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:33,301-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 17:43:33,364-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 17:43:33,364-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 17:43:35,106-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:35,106-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 17:43:51,174-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 17:43:51,361-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-18 17:43:51,507-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-18 17:43:51,657-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-18 17:43:51,809-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-18 17:43:51,966-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-18 17:43:52,203-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-18 17:43:52,392-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-18 17:43:52,560-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-18 17:43:52,727-INFO-bidlodn_test.py-test_recharge-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-18 17:43:52,890-ERROR-bidlodn_test.py-test_recharge-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-18 17:43:54,815-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:54,815-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 17:43:57,095-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:57,095-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 17:43:57,197-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:57,197-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 17:43:57,458-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"12000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 17:43:57,664-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 17:43:57,839-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 17:43:58,011-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-18 17:43:58,184-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-18 17:43:58,615-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:58,616-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 17:43:58,742-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 17:43:58,742-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 17:43:58,864-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:43:58,864-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 17:43:58,978-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 17:43:58,978-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 17:44:00,861-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 17:44:00,861-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 19:37:10,256-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 19:37:10,417-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-18 19:37:10,572-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-18 19:37:10,726-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-18 19:37:10,881-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-18 19:37:11,034-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-18 19:37:11,489-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-18 19:37:11,662-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-18 19:37:11,835-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-18 19:37:12,001-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-18 19:37:12,387-ERROR-bidlodn_test.py-test_bidloan-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-18 19:37:15,863-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 19:37:15,863-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 19:37:19,394-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 19:37:19,394-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 19:37:19,488-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 19:37:19,488-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 19:37:19,758-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"16000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 19:37:19,913-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 19:37:20,069-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 19:37:20,226-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-18 19:37:20,383-INFO-recharge_test.py-test_recharge-50-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-18 19:37:20,820-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 19:37:20,820-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 19:37:20,929-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 19:37:20,929-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 19:37:21,037-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 19:37:21,037-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 19:37:21,149-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 19:37:21,150-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 19:37:23,157-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 19:37:23,157-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 20:04:18,945-INFO-recharge_test.py-test_recharge-58-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"26000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 20:07:11,562-INFO-recharge_test.py-test_recharge-59-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"31000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 20:07:11,740-INFO-recharge_test.py-test_recharge-59-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 20:07:11,911-INFO-recharge_test.py-test_recharge-59-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 20:07:12,085-INFO-recharge_test.py-test_recharge-59-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-18 20:07:12,255-INFO-recharge_test.py-test_recharge-59-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-18 20:28:41,237-INFO-recharge_test.py-test_recharge-63-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"56000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 20:38:17,545-ERROR-recharge_test.py-test_recharge-67-日志信息：'{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"61000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}' not found in '10001'
+2019-07-18 20:40:41,210-ERROR-recharge_test.py-test_recharge-67-日志信息：'{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"66000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}' not found in '10001'
+2019-07-18 21:07:29,860-INFO-recharge_test.py-test_recharge-68-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"76000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 21:07:44,027-INFO-recharge_test.py-test_recharge-68-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"81000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 21:13:53,108-INFO-recharge_test.py-test_recharge-68-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"121000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 21:15:49,693-INFO-recharge_test.py-test_recharge-68-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"126000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 21:23:24,104-INFO-recharge_test.py-test_recharge-75-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"131000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 21:23:33,352-INFO-recharge_test.py-test_recharge-75-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"136000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 21:23:57,412-INFO-recharge_test.py-test_recharge-75-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"141000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 21:30:11,077-ERROR-recharge_test.py-test_recharge-78-日志信息："{'status': 1, 'code': '10001', 'data': {'id': 103476, 'regname': 'invest_nesta', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '15884573109', 'leaveamount': '151000.00', 'type': '1', 'regtime': '2019-07-18 17:22:04.0'}, 'msg': '充值成功'}" not found in '10001'
+2019-07-18 21:30:26,432-ERROR-recharge_test.py-test_recharge-78-日志信息：'{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"156000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}' not found in '10001'
+2019-07-18 22:11:02,416-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 22:11:02,591-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-18 22:11:02,760-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-18 22:11:02,937-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-18 22:11:03,111-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-18 22:11:03,280-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-18 22:11:03,513-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-18 22:11:03,671-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-18 22:11:03,834-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-18 22:11:03,994-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-18 22:11:04,161-ERROR-bidlodn_test.py-test_bidloan-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-18 22:11:06,343-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 22:11:06,343-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 22:11:08,492-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 22:11:08,493-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 22:11:08,605-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 22:11:08,605-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 22:11:09,122-INFO-recharge_test.py-test_recharge-75-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"160000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 22:11:09,761-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 22:11:09,761-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 22:11:09,872-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 22:11:09,872-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 22:11:09,987-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 22:11:09,987-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 22:11:10,097-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 22:11:10,097-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 22:11:11,996-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 22:11:11,996-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 22:54:44,479-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 23:02:20,522-INFO-recharge_test.py-test_recharge-75-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"165000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-18 23:13:40,653-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-18 23:13:40,833-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-18 23:13:40,977-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-18 23:13:41,132-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-18 23:13:41,283-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-18 23:13:41,439-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-18 23:13:41,667-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-18 23:13:41,821-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-18 23:13:41,983-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-18 23:13:42,134-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-18 23:13:42,293-ERROR-bidlodn_test.py-test_bidloan-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-18 23:13:44,316-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 23:13:44,317-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-18 23:13:46,424-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 23:13:46,424-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-18 23:13:46,529-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 23:13:46,529-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-18 23:13:47,110-ERROR-recharge_test.py-test_recharge-84-日志信息：164000.0 != 169000.0
+2019-07-18 23:13:48,000-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 23:13:48,000-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-18 23:13:48,106-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 23:13:48,106-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-18 23:13:48,228-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 23:13:48,228-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-18 23:13:48,334-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-18 23:13:48,334-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-18 23:13:49,937-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-18 23:13:49,937-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-18 23:17:49,920-ERROR-recharge_test.py-test_recharge-84-日志信息： :: 169000.0 != 174000.0
+2019-07-18 23:54:03,951-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"179000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-19 00:00:36,351-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"194000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-19 00:01:10,255-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"199000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-19 00:01:10,435-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-19 00:01:10,610-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-19 00:01:10,782-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-19 00:01:10,973-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-19 00:01:28,446-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-19 00:01:28,610-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-19 00:01:28,791-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-19 00:01:28,957-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-19 00:01:29,115-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-19 00:01:29,279-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-19 00:01:29,562-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-19 00:01:29,729-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-19 00:01:29,894-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-19 00:01:30,055-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-19 00:01:30,220-ERROR-bidlodn_test.py-test_bidloan-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-19 00:01:32,081-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:01:32,081-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-19 00:01:34,079-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:01:34,080-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-19 00:01:34,195-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:01:34,196-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-19 00:01:34,758-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"203000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-19 00:01:34,923-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-19 00:01:35,085-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-19 00:01:35,243-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-19 00:01:35,406-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-19 00:01:35,849-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:01:35,850-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-19 00:01:35,949-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-19 00:01:35,949-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-19 00:01:36,054-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:01:36,054-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-19 00:01:36,167-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-19 00:01:36,167-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-19 00:01:37,950-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:01:37,950-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-19 00:03:17,959-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-19 00:03:18,118-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-19 00:03:18,278-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-19 00:03:18,429-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-19 00:03:18,585-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-19 00:03:18,742-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-19 00:03:18,959-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-19 00:03:19,130-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-19 00:03:19,284-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-19 00:03:19,438-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-19 00:03:19,603-ERROR-bidlodn_test.py-test_bidloan-52-日志信息：'11011' != '11010'
+- 11011
+?     ^
++ 11010
+?     ^
+
+2019-07-19 00:03:21,431-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:03:21,432-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-19 00:03:23,501-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:03:23,501-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-19 00:03:23,612-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:03:23,612-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-19 00:03:24,212-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"207000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-19 00:03:24,374-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-19 00:03:24,535-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-19 00:03:24,692-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-19 00:03:24,860-INFO-recharge_test.py-test_recharge-81-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-19 00:03:25,245-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:03:25,245-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-19 00:03:25,358-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-19 00:03:25,358-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-19 00:03:25,472-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:03:25,473-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-19 00:03:25,577-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-19 00:03:25,577-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-19 00:03:27,159-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-19 00:03:27,159-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-20 01:16:27,503-INFO-operate_http_requests.py-http_request-59-日志信息：get请求成功
+2019-07-20 01:17:18,732-INFO-operate_http_requests.py-http_request-59-日志信息：get请求成功
+2019-07-20 01:17:29,519-INFO-operate_http_requests.py-http_request-59-日志信息：get请求成功
+2019-07-20 01:37:41,395-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"212000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-20 01:37:41,614-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-20 01:37:41,780-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-20 01:37:41,941-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-20 01:37:42,113-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-20 01:38:07,144-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"217000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-20 01:38:07,316-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-20 01:38:07,491-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-20 01:38:07,657-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-20 01:38:07,827-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-20 01:38:32,357-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"222000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-20 01:38:32,523-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-20 01:38:32,686-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-20 01:38:32,853-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-20 01:38:33,023-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-20 01:38:46,516-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-20 01:38:46,688-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-20 01:38:46,857-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-20 01:38:47,030-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-20 01:42:33,755-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"227000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-20 01:42:57,395-INFO-recharge_test.py-test_recharge-80-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"232000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-23 20:35:25,755-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-23 20:35:25,962-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-23 20:35:26,125-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-23 20:35:26,283-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-23 20:35:26,447-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-23 20:35:26,626-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-23 20:35:26,849-ERROR-bidlodn_test.py-test_bidloan-52-日志信息：'11009' != '10001'
+- 11009
++ 10001
+
+2019-07-23 20:35:27,114-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-23 20:35:29,829-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 20:35:29,829-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-23 20:35:33,096-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 20:35:33,097-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-23 20:35:33,197-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 20:35:33,197-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-23 20:35:33,837-INFO-recharge_test.py-test_recharge-79-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"246000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-23 20:35:33,998-INFO-recharge_test.py-test_recharge-79-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-23 20:35:34,153-INFO-recharge_test.py-test_recharge-79-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-23 20:35:34,311-INFO-recharge_test.py-test_recharge-79-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-23 20:35:34,463-INFO-recharge_test.py-test_recharge-79-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-23 20:35:36,864-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 20:35:36,864-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-23 20:35:36,986-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-23 20:35:36,986-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-23 20:35:37,105-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 20:35:37,105-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-23 20:35:37,220-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-23 20:35:37,220-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-23 20:35:39,485-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 20:35:39,486-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-23 21:45:08,423-INFO-add_test.py-test_add-49-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-23 21:45:08,594-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-23 21:45:08,735-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-23 21:45:08,874-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-23 21:45:09,021-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-23 21:45:09,163-INFO-add_test.py-test_add-49-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-23 21:45:09,389-ERROR-bidlodn_test.py-test_bidloan-52-日志信息：'11009' != '10001'
+- 11009
++ 10001
+
+2019-07-23 21:45:09,609-INFO-bidlodn_test.py-test_bidloan-49-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-23 21:45:12,583-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 21:45:12,583-INFO-login_test.py-test_login-43-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-23 21:45:14,836-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 21:45:14,836-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-23 21:45:14,942-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 21:45:14,942-INFO-login_test.py-test_login-43-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-23 21:45:15,507-INFO-recharge_test.py-test_recharge-79-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"251000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-23 21:45:15,662-INFO-recharge_test.py-test_recharge-79-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-23 21:45:15,806-INFO-recharge_test.py-test_recharge-79-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-23 21:45:15,952-INFO-recharge_test.py-test_recharge-79-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-23 21:45:16,099-INFO-recharge_test.py-test_recharge-79-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-23 21:45:16,522-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 21:45:16,522-INFO-register_test.py-test_register-47-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-23 21:45:16,619-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-23 21:45:16,619-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-23 21:45:16,718-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 21:45:16,718-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-23 21:45:16,822-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-23 21:45:16,822-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-23 21:45:18,878-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-23 21:45:18,878-INFO-register_test.py-test_register-47-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-24 17:32:56,254-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:32:56,254-ERROR-register_test.py-test_register-51-日志信息：'{"status":1,"code":"10001","data":null,"msg":"注册成功"}' not found in '10001'
+2019-07-24 17:32:56,434-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 17:32:56,434-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}' not found in '20109'
+2019-07-24 17:32:56,572-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:32:56,572-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}' not found in '20108'
+2019-07-24 17:32:56,691-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 17:32:56,691-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}' not found in '20103'
+2019-07-24 17:32:59,016-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:32:59,016-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}' not found in '20110'
+2019-07-24 17:34:02,051-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:34:02,051-ERROR-register_test.py-test_register-51-日志信息：'{"status":1,"code":"10001","data":null,"msg":"注册成功"}' not found in '10001'
+2019-07-24 17:34:02,162-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 17:34:02,162-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}' not found in '20109'
+2019-07-24 17:34:02,233-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:34:02,233-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}' not found in '20108'
+2019-07-24 17:34:02,303-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 17:34:02,303-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}' not found in '20103'
+2019-07-24 17:34:04,668-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:34:04,668-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}' not found in '20110'
+2019-07-24 17:34:09,451-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:34:09,451-ERROR-register_test.py-test_register-51-日志信息：'{"status":1,"code":"10001","data":null,"msg":"注册成功"}' not found in '10001'
+2019-07-24 17:34:09,574-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 17:34:09,574-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}' not found in '20109'
+2019-07-24 17:34:09,699-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:34:09,699-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}' not found in '20108'
+2019-07-24 17:34:09,829-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 17:34:09,829-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}' not found in '20103'
+2019-07-24 17:34:12,076-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:34:12,076-ERROR-register_test.py-test_register-51-日志信息：'{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}' not found in '20110'
+2019-07-24 17:35:30,837-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:35:30,838-INFO-register_test.py-test_register-48-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-24 17:35:30,959-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 17:35:30,959-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-24 17:35:31,077-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:35:31,077-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-24 17:35:31,201-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 17:35:31,201-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-24 17:35:33,306-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:35:33,306-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-24 17:35:54,498-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:35:54,498-INFO-register_test.py-test_register-48-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-24 17:35:54,619-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 17:35:54,619-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-24 17:35:54,743-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:35:54,743-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-24 17:35:54,860-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 17:35:54,860-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-24 17:35:57,249-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 17:35:57,249-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-24 18:55:28,503-INFO-bidlodn_test.py-test_bidloan-70-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 18:55:28,705-ERROR-bidlodn_test.py-test_bidloan-73-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 18:57:12,271-INFO-bidlodn_test.py-test_bidloan-70-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 18:57:12,447-ERROR-bidlodn_test.py-test_bidloan-73-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:00:16,267-INFO-bidlodn_test.py-test_bidloan-70-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:00:16,451-ERROR-bidlodn_test.py-test_bidloan-73-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:04:00,533-INFO-bidlodn_test.py-test_bidloan-70-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:04:00,655-ERROR-bidlodn_test.py-test_bidloan-73-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:04:06,173-INFO-bidlodn_test.py-test_bidloan-70-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:04:06,348-ERROR-bidlodn_test.py-test_bidloan-73-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:06:06,655-INFO-bidlodn_test.py-test_bidloan-70-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:06:06,834-ERROR-bidlodn_test.py-test_bidloan-73-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:08:24,812-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:08:24,930-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:17:42,745-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:17:42,871-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:17:42,928-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:17:42,993-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}'
+2019-07-24 19:17:43,128-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}'
+2019-07-24 19:18:54,793-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:18:54,917-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:18:54,974-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:18:55,044-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:18:55,182-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}'
+2019-07-24 19:23:21,396-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:23:21,517-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:23:21,569-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:23:21,628-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:23:21,747-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}'
+2019-07-24 19:26:34,278-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:26:34,355-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:26:34,408-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:26:34,471-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:26:34,541-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}'
+2019-07-24 19:27:01,890-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:27:02,019-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:27:02,072-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>'
+2019-07-24 19:27:02,136-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:27:02,253-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}'
+2019-07-24 19:28:18,160-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:28:18,359-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2019-07-24 19:28:18,492-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:28:18,617-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}'
+2019-07-24 19:32:59,344-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:32:59,473-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}'
+2019-07-24 19:32:59,600-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"20212","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}'
+2019-07-24 19:32:59,735-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:32:59,857-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}'
+2019-07-24 19:34:44,390-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:34:44,519-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}'
+2019-07-24 19:34:44,650-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"20212","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}'
+2019-07-24 19:34:44,783-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:34:44,908-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}'
+2019-07-24 19:36:03,720-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:36:03,845-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'10001' not found in '{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}'
+2019-07-24 19:36:03,981-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:39:03,909-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:39:04,233-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:40:06,264-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:40:06,590-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:41:13,881-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:41:14,115-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:41:14,259-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:42:56,232-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:42:56,497-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:42:56,631-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:43:56,355-INFO-bidlodn_test.py-test_bidloan-71-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:43:56,597-INFO-bidlodn_test.py-test_bidloan-71-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:43:56,739-INFO-bidlodn_test.py-test_bidloan-71-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:45:29,346-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:45:29,592-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:45:29,721-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:46:34,638-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:46:34,887-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:46:35,011-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2019-07-24 19:46:35,145-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:48:40,445-INFO-add_test.py-test_add-50-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:48:40,625-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-24 19:48:40,795-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-24 19:48:40,963-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-24 19:48:41,132-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-24 19:48:41,297-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-24 19:48:41,657-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:48:41,893-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:48:42,023-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2019-07-24 19:48:42,154-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:48:42,290-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-24 19:48:42,411-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-24 19:48:42,533-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-24 19:48:42,665-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-24 19:48:42,809-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'11010' not found in '{"status":1,"code":"10001","data":null,"msg":"竞标成功"}'
+2019-07-24 19:48:45,163-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:48:45,163-INFO-login_test.py-test_login-44-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:48:47,544-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:48:47,544-INFO-login_test.py-test_login-44-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-24 19:48:47,657-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:48:47,657-INFO-login_test.py-test_login-44-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-24 19:48:48,319-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"259000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-24 19:48:48,496-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-24 19:48:48,667-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-24 19:48:48,839-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-24 19:48:49,009-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-24 19:48:49,470-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:48:49,470-INFO-register_test.py-test_register-48-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-24 19:48:49,582-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 19:48:49,582-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-24 19:48:49,695-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:48:49,695-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-24 19:48:49,808-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 19:48:49,808-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-24 19:48:52,084-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:48:52,084-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-24 19:50:45,015-INFO-add_test.py-test_add-50-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:50:45,195-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-24 19:50:45,364-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-24 19:50:45,543-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-24 19:50:45,712-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-24 19:50:45,889-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-24 19:50:46,281-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:50:46,513-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:50:46,651-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2019-07-24 19:50:46,773-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:50:46,908-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-24 19:50:47,025-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-24 19:50:47,144-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-24 19:50:47,271-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-24 19:50:47,381-ERROR-bidlodn_test.py-test_bidloan-72-日志信息：'11010' not found in '{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}'
+2019-07-24 19:50:49,733-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:50:49,734-INFO-login_test.py-test_login-44-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:50:52,112-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:50:52,112-INFO-login_test.py-test_login-44-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-24 19:50:52,233-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:50:52,233-INFO-login_test.py-test_login-44-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-24 19:50:52,910-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"263000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-24 19:50:53,102-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-24 19:50:53,286-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-24 19:50:53,467-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-24 19:50:53,653-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-24 19:50:54,156-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:50:54,156-INFO-register_test.py-test_register-48-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-24 19:50:54,279-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 19:50:54,280-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-24 19:50:54,399-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:50:54,399-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-24 19:50:54,522-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 19:50:54,522-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-24 19:50:56,653-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:50:56,653-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-07-24 19:51:38,293-INFO-add_test.py-test_add-50-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:51:38,477-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-07-24 19:51:38,653-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-07-24 19:51:38,824-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-07-24 19:51:38,997-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-07-24 19:51:39,171-INFO-add_test.py-test_add-50-日志信息：{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-07-24 19:51:39,547-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:51:39,788-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-07-24 19:51:39,907-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2019-07-24 19:51:40,046-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:51:40,179-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-07-24 19:51:40,290-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-07-24 19:51:40,424-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-24 19:51:40,550-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-07-24 19:51:40,662-INFO-bidlodn_test.py-test_bidloan-69-日志信息：{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-07-24 19:51:42,772-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:51:42,772-INFO-login_test.py-test_login-44-日志信息：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-07-24 19:51:45,404-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:51:45,404-INFO-login_test.py-test_login-44-日志信息：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-07-24 19:51:45,508-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:51:45,508-INFO-login_test.py-test_login-44-日志信息：{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-07-24 19:51:46,196-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":1,"code":"10001","data":{"id":103476,"regname":"invest_nesta","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"15884573109","leaveamount":"267000.00","type":"1","regtime":"2019-07-18 17:22:04.0"},"msg":"充值成功"}
+2019-07-24 19:51:46,364-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-24 19:51:46,535-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-24 19:51:46,723-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-07-24 19:51:46,894-INFO-recharge_test.py-test_recharge-77-日志信息：{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-07-24 19:51:47,385-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:51:47,385-INFO-register_test.py-test_register-48-日志信息：{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-07-24 19:51:47,496-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 19:51:47,497-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-07-24 19:51:47,608-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:51:47,608-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-07-24 19:51:47,718-INFO-operate_http_requests.py-http_request-51-日志信息：get请求成功
+2019-07-24 19:51:47,718-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-07-24 19:51:49,978-INFO-operate_http_requests.py-http_request-48-日志信息：post请求成功
+2019-07-24 19:51:49,978-INFO-register_test.py-test_register-48-日志信息：{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}

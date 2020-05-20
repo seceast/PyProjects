@@ -1,0 +1,12 @@
+phone1:
+  platformName: "Android"
+  platformVersion: "5.1"
+  deviceName: "Android Emulator"
+  appActivity: "com.xxzb.fenwoo.activity.addition.WelcomeActivity"
+  appPackage: "com.xxzb.fenwoo"
+  noReset: "False"
+
+phone_list:
+  - 111
+  - 222
+  - 333
