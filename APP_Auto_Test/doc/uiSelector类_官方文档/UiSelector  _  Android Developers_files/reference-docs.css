@@ -1,0 +1,330 @@
+
+/* Style the top-level left nav links to match the accordion */
+
+.devsite-section-nav > ul > .devsite-nav-item:not(:first-child):not(.devsite-nav-accordion) {
+  border-top: 1px solid #cfd8dc;
+  margin: 16px -16px -16px;
+  padding: 15px 16px 16px;
+}
+
+.devsite-section-nav > ul > .devsite-nav-item {
+  font-weight: bold;
+}
+
+.devsite-section-nav > ul > .devsite-nav-item > ul {
+  font-weight: normal;
+}
+
+.devsite-section-nav > ul > .devsite-nav-item:not(.devsite-nav-active) > .devsite-nav-title {
+  color: #757575;
+}
+
+.devsite-section-nav > ul > .devsite-nav-item:not(.devsite-nav-active):not(.devsite-nav-item-heading) > .devsite-nav-title:hover {
+  color: #424242;
+}
+
+/* Style for left nav "heading" to distinguish from accordions */
+
+.devsite-section-nav > ul > .devsite-nav-item.devsite-nav-item-heading:not(.fake-selector) {
+  background: #fff;
+  padding-top: 32px;
+}
+
+.devsite-section-nav > ul > .devsite-nav-item-heading:not(.fake-selector) > .devsite-nav-title {
+  color: #444;
+}
+
+.devsite-section-nav > ul > .devsite-nav-item.devsite-nav-item-heading + .devsite-nav-item {
+  border-top: 0;
+}
+
+/* class signature at the top of the page */
+
+.api-signature {
+  background: transparent;
+  border: 0;
+  color: inherit;
+  font-weight: normal;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.api-signature .devsite-code-button {
+  display: none;
+}
+
+/* the "added in" info on all APIs */
+.api-level {
+  float: right;
+  font-size: smaller;
+  margin-top: -40px;
+}
+
+/* the "added in" block at the top of the page */
+#api-info-block .api-level {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 1000px) {
+  .api-level {
+    float: none;
+    margin-top: 0;
+  }
+  #api-info-block .api-level {
+    margin-bottom: 20px;
+  }
+}
+
+.api-level a,
+.api-level a:active,
+.api-level a:visited {
+  color: #222;
+}
+
+.api-level a:hover {
+  color: #888;
+}
+
+/* This element is obsolete now that devsite provides TOC */
+#api-info-block .sum-details-links {
+  display: none;
+}
+
+
+/* The table that shows this class's inheritance tree */
+
+.jd-inheritance-table tr,
+.jd-inheritance-table tr td {
+  background-color: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.jd-inheritance-table .jd-inheritance-space {
+  width: 2em;
+}
+
+/* The devsite expandable widget */
+
+td>.expandable {
+  margin-top: 0;
+}
+
+.expand-control:not(button):not(.button) {
+  color: inherit;
+  cursor: pointer;
+  padding-left: 24px;
+  position: relative;
+}
+
+.expand-control::before {
+  background: url(/static/images/styles/disclosure_down.png) no-repeat center center;
+  background-size: 34px 34px;
+  color: transparent;
+  content: '';
+  display: block;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  width: 20px;
+}
+
+.expand-control.exw-expanded::before {
+  background: url(/static/images/styles/disclosure_up.png) no-repeat center center;
+}
+
+/* Known subclasses list */
+
+.jd-sumtable-subclasses #subclasses-direct,
+.jd-sumtable-subclasses #subclasses-indirect {
+  /* left margin matches width of the toggle image,
+     so this section aligns with the text above */
+  margin: 0 0 0 24px;
+}
+
+.jd-sumtable-subclasses .expand-control.exw-expanded + .showalways {
+  /* Hide the comma list when expanded to show the table */
+  display: none;
+}
+
+.jd-sumtable-subclasses tr,
+.jd-sumtable-subclasses td {
+  background-color: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+#subclasses-direct-summary,
+#subclasses-indirect-summary {
+  padding-left: 24px;
+}
+
+.jd-sumtable-expando td {
+  border: solid 1px #ddd;
+  padding: 4px;
+}
+
+.jd-inherited-apis .exw-expanded-content {
+  /* Force override for some lengthy devsite style selectors */
+  padding-left: 24px !important;
+  margin-top: 12px !important;
+}
+
+
+/* Styles for legacy doclava HTML that uses custom expando.
+ * The list of direct/indirect subclasses does not expand at all,
+ * and the list of inherited members/methods is expanded by default. */
+
+.jd-sumtable-subclasses #subclasses-direct-list,
+.jd-sumtable-subclasses #subclasses-indirect-list {
+  /* Force line-wraps for CSVs with no spaces */
+  word-break: break-word;
+}
+
+:not(.expandable)>#subclasses-direct-summary,
+:not(.expandable)>#subclasses-indirect-summary {
+  display: none !important;
+}
+
+.jd-sumtable #subclasses-direct.jd-expando-trigger,
+.jd-sumtable #subclasses-indirect.jd-expando-trigger{
+  margin: 0;
+}
+
+
+/* Force the broken legacy expandos into something that looks WAI */
+
+.jd-expando-trigger {
+  display: inline-block;
+  height: 0;
+  margin: 0;
+  padding-top: 10px;
+  width: 24px;
+}
+
+.jd-expando-trigger img {
+  /* display: none; */
+  height: inherit;
+}
+
+.jd-expando-trigger ~ div > div {
+  display: block !important; /* Force all inline-hidden divs to appear */
+}
+
+table.responsive td td:first-child,
+table.responsive td tr:last-child td,
+table.responsive td tr:first-child td{
+  padding: 7px 8px 8px;
+}
+
+.data-reference-resources-wrapper {
+  display: none;
+}
+
+#lattrs td:first-child,
+.inhtable td:first-child {
+  white-space: nowrap;
+}
+
+#lattrs td+td,
+.inhtable td+td {
+  white-space: normal;
+}
+
+
+/* Styles to highlight the preview APIs */
+
+
+/* Must be updated with each letter-appropriate preview */
+body.apilevel-P .api-title,
+#jd-content:not(.devsite-future-version) .apilevel-P:not(.devsite-future-version) h3,
+
+[data-version-added="P"] .api-title,
+#jd-content:not(.devsite-future-version) [data-version-added="P"]:not(.devsite-future-version) h3 {
+  color: #f5ba15;
+}
+
+/* Must be updated with each letter-appropriate preview */
+#jd-content:not(.devsite-future-version) .apilevel-P:not(.devsite-future-version) .api-level a,
+body.apilevel-P #api-info-block .api-level a,
+
+#jd-content[data-version-added="P"]:not(.devsite-future-version) .api-level a {
+  color: #f5ba15;
+  font-size: 14px;
+}
+
+/* Must be updated with each letter-appropriate preview */
+#jd-content:not(.devsite-future-version) tr.apilevel-P:not(.devsite-future-version),
+#jd-content:not(.devsite-future-version) .apilevel-P:not(.devsite-future-version) tr,
+table:not(.jd-inheritance-table):not(.jd-sumtable-subclasses) tr.apilevel-P:not(.devsite-future-version),
+body.apilevel-P #jd-content table:not(.jd-inheritance-table):not(.jd-sumtable-subclasses) tr,
+
+#jd-content:not(.devsite-future-version) tr[data-version-added="P"]:not(.devsite-future-version),
+#jd-content:not(.devsite-future-version) [data-version-added="P"]:not(.devsite-future-version) tr,
+table:not(.jd-inheritance-table):not(.jd-sumtable-subclasses) tr[data-version-added="P"]:not(.devsite-future-version),
+#jd-content[data-version-added="P"] table:not(.jd-inheritance-table):not(.jd-sumtable-subclasses) tr {
+  background: none;
+}
+
+/* Must be updated with each letter-appropriate preview */
+#jd-content:not(.devsite-future-version) .apilevel-P:not(.devsite-future-version) td,
+#jd-content:not(.devsite-future-version) .apilevel-P:not(.devsite-future-version) th,
+body.apilevel-P #jd-content:not(.devsite-future-version) table:not(.jd-inheritance-table):not(.jd-sumtable-subclasses) tr:not(.devsite-future-version) td,
+body.apilevel-P #jd-content:not(.devsite-future-version) th,
+
+#jd-content:not(.devsite-future-version) [data-version-added="P"]:not(.devsite-future-version) td,
+#jd-content:not(.devsite-future-version) [data-version-added="P"]:not(.devsite-future-version) th,
+#jd-content[data-version-added="P"]:not(.devsite-future-version) table:not(.jd-inheritance-table):not(.jd-sumtable-subclasses) tr:not(.devsite-future-version) td,
+#jd-content[data-version-added="P"]:not(.devsite-future-version) th {
+  background: rgba(245, 185, 16, .2);
+}
+
+/* Must be updated with each letter-appropriate preview */
+#jd-content:not(.devsite-future-version) tr.apilevel-P:not(.devsite-future-version) td,
+table:not(.jd-inheritance-table):not(.jd-sumtable-subclasses) .apilevel-P:not(.devsite-future-version) td,
+
+#jd-content:not(.devsite-future-version) tr[data-version-added="P"]:not(.devsite-future-version) td,
+table:not(.jd-inheritance-table):not(.jd-sumtable-subclasses) [data-version-added="P"]:not(.devsite-future-version) td {
+  background: rgba(245, 185, 16, .2);
+}
+
+/* Must be updated with each letter-appropriate preview */
+#jd-content:not(.devsite-future-version) .apilevel-P:not(.devsite-future-version) th,
+body.apilevel-P #jd-content:not(.devsite-future-version) th,
+
+#jd-content:not(.devsite-future-version) [data-version-added="P"]:not(.devsite-future-version) th,
+#jd-content[data-version-added="P"]:not(.devsite-future-version) th {
+  background: #f5ba15;
+}
+
+
+
+/* Misc styles used in the reference */
+
+h1.api-title {
+  margin-bottom: 0;
+}
+
+h2.api-section:not(#summary) {
+  margin-top: 60px;
+  margin-bottom: -20px;
+}
+
+h3.api-name {
+  margin-top: 60px;
+}
+
+.nolist, .nolist ul, .nolist ol {
+  list-style: none;
+  padding-left: 0;
+}
+
+table.inhtable>tbody>tr>td {
+  padding-left: 0;
+}
+
+table.inhtable>tbody>tr>td div:first-of-type {
+  padding-left: 12px;
+}
